@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: system-ui, Arial, sans-serif;
+  background: #ffeefb;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.app h1 {
+  color: #812e58;
+  margin-bottom: 32px;
+}
+
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+}
